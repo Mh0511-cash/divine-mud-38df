@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "divine-mud-38df",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b0084381-c900-464d-9eda-3ffec3a46946",
+      "database_name": "divine-mud-38df-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
