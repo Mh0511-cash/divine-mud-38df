@@ -8,6 +8,7 @@
       "binding": "DB",
       "database_id": "b0084381-c900-464d-9eda-3ffec3a46946",
       "database_name": "divine-mud-38df-d1"
+      "name": "payos-handler",
     }
   ],
   "observability": {
